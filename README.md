@@ -14,6 +14,8 @@
 * Not the prettiest, more utilitarian
 * Wordy
 
+-----
+
 ### Prototype 2
 #### Usage of "form help" below option
 ![proto2](https://github.com/jshaw990/Dissolve_Design/blob/master/screenshots/proto2.png?raw=true)
