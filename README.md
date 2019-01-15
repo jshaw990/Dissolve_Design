@@ -1,6 +1,12 @@
 # Dissolve 
 ## Solution Design Exercise
 
+For this UX/UI design exercise I have loosely recreated the cost calulator using Bootstrap 4, HTML, and CSS. Note that not all options availible in the production model are accurately displayed here. 
+
+To solve the presented issue I offer two prototypes with pros and cons for each of them. 
+
+I believe that Prototype Two is the better solution for this issue as it fits more with the general clean styling of the Dissolve website. 
+
 ### Prototype 1
 #### Usage of a Bootstrap 4 Alert
 ![proto1](https://github.com/jshaw990/Dissolve_Design/blob/master/screenshots/proto1.png?raw=true)
