@@ -1,0 +1,12 @@
+.form {
+    width: 50%;
+    border: 0.1em solid black;
+    margin-left: 10%;
+    padding: 0.5em 1.5em;
+}
+div {
+    padding: 0.3em 0em;
+}
+h4 {
+    text-align: center;
+}
