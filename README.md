@@ -12,3 +12,15 @@
 * Large, takes up a lot of space on the page
 * Not the prettiest, more utilitarian
 * Wordy
+
+### Prototype 2
+#### Usage of "form help" below option
+##### Pros:
+* Requires no user interaction
+* Good looking
+* Takes up minimal space
+* Inline with form option
+* Option cost displayed in dropdown additionally
+
+##### Cons:
+* Small, easy to overlook
